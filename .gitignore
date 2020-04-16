@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+**/.idea/**
+*.iml
+**/.terraform/*
+Jenkinsfile
+.DS_Store
+terraform.tfstate
+terraform.tfstate.backup
