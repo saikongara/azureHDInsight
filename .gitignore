@@ -2,6 +2,7 @@
 **/.idea/**
 *.iml
 **/.terraform/*
+.gitattributes
 Jenkinsfile
 .DS_Store
 terraform.tfstate
